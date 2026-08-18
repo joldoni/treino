@@ -202,7 +202,10 @@ svg.chart{width:100%;height:170px;display:block;overflow:visible}
 
 <div class="modal" id="modal"><div class="sheet" id="sheet"></div></div>
 
-<script src="data.js"></script>
-<script src="app.js"></script>
+<!-- O ?v= força o navegador a baixar a versão nova a cada atualização.
+     Ao publicar mudanças em data.js ou app.js, incremente o número aqui
+     e a constante CACHE em sw.js. -->
+<script src="data.js?v=2"></script>
+<script src="app.js?v=2"></script>
 </body>
 </html>
