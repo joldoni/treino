@@ -1,5 +1,5 @@
 /* Service worker — permite abrir o app sem internet (academia com sinal ruim). */
-const CACHE = 'treino-v1';
+const CACHE = 'treino-v2';
 const ASSETS = ['./', './index.html', './app.js', './data.js', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-180.png'];
 
 self.addEventListener('install', e => {

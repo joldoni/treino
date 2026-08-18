@@ -53,7 +53,7 @@ const EXERCISES = {
       'Empurrar com a ponta do pé em vez do pé inteiro.',
       'Joelhos caindo para dentro na subida.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=waAxlYvtCcI',
     searchQuery: 'leg press técnica execução correta',
     substitutions: ['agachamento_gym', 'cadeira_extensora', 'agachamento_bw']
   },
@@ -78,7 +78,7 @@ const EXERCISES = {
       'Joelhos colapsando para dentro.',
       'Descer rápido demais e perder o controle.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=ge1vdJRP0UA',
     searchQuery: 'agachamento goblet técnica execução',
     substitutions: ['leg_press', 'agachamento_bw', 'cadeira_extensora']
   },
@@ -101,7 +101,7 @@ const EXERCISES = {
       'Soltar o peso de volta sem controle.',
       'Carga alta demais com amplitude curta.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=pJZXbaF-MCM',
     searchQuery: 'cadeira extensora execução correta',
     substitutions: ['leg_press', 'agachamento_gym']
   },
@@ -124,7 +124,7 @@ const EXERCISES = {
       'Fase de volta rápida demais.',
       'Rolo posicionado alto demais na panturrilha.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=8Nat6GRiEoc',
     searchQuery: 'mesa flexora execução correta',
     substitutions: ['romeno', 'glute_bridge']
   },
@@ -151,7 +151,7 @@ const EXERCISES = {
       'Afastar os halteres do corpo.',
       'Usar carga alta antes de dominar o padrão.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=3RmD9VyZZjY',
     searchQuery: 'levantamento terra romeno halteres técnica iniciante',
     substitutions: ['mesa_flexora', 'glute_bridge']
   },
@@ -177,7 +177,7 @@ const EXERCISES = {
       'Puxar atrás da nuca.',
       'Amplitude curta na volta.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=FepRH_MBX8E',
     searchQuery: 'puxada frontal pulldown técnica correta',
     substitutions: ['remada_sentada', 'remada_halter', 'prone_yt']
   },
@@ -202,7 +202,7 @@ const EXERCISES = {
       'Encolher os ombros durante a puxada.',
       'Amplitude curta na volta.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=f8AVh4VBbos',
     searchQuery: 'remada sentada polia técnica correta',
     substitutions: ['remada_halter', 'puxada_frontal', 'prone_yt']
   },
@@ -226,7 +226,7 @@ const EXERCISES = {
       'Puxar com o cotovelo aberto para fora.',
       'Arredondar a lombar.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=EUisRaNkCd4',
     searchQuery: 'remada unilateral halter serrote técnica',
     substitutions: ['remada_sentada', 'puxada_frontal']
   },
@@ -250,7 +250,7 @@ const EXERCISES = {
       'Movimento rápido e balanceado.',
       'Adicionar carga cedo demais.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=-ilwYHfX8p8',
     searchQuery: 'extensão lombar banco romano hiperextensão técnica',
     substitutions: ['glute_bridge', 'bird_dog', 'romeno']
   },
@@ -277,7 +277,7 @@ const EXERCISES = {
       'Descer rápido demais e quicar.',
       'Amplitude curta.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=Cjh2fIMQHk0',
     searchQuery: 'supino halteres técnica correta iniciante',
     substitutions: ['flexao', 'flexao_inclinada']
   },
@@ -301,7 +301,7 @@ const EXERCISES = {
       'Usar o tronco para empurrar a barra.',
       'Amplitude curta.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=re-ILvqD1RE',
     searchQuery: 'tríceps polia pulley técnica correta',
     substitutions: ['triceps_halter', 'flexao_fechada']
   },
@@ -324,7 +324,7 @@ const EXERCISES = {
       'Mover o ombro em vez do cotovelo.',
       'Carga alta demais.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=9EkGm94Q2Ms',
     searchQuery: 'tríceps francês halter técnica',
     substitutions: ['triceps_polia', 'flexao_fechada']
   },
@@ -347,7 +347,7 @@ const EXERCISES = {
       'Cotovelos indo para frente (vira exercício de ombro).',
       'Descer o peso sem controle.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=c__3LAiXYOk',
     searchQuery: 'rosca bíceps halteres técnica correta',
     substitutions: ['rosca_polia', 'biceps_isometrico']
   },
@@ -370,7 +370,7 @@ const EXERCISES = {
       'Cotovelos deslocando.',
       'Amplitude curta.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=zqklqTcOsbo',
     searchQuery: 'rosca bíceps polia técnica',
     substitutions: ['rosca_halteres']
   },
@@ -395,7 +395,7 @@ const EXERCISES = {
       'Prender a respiração.',
       'Segurar mais tempo do que consegue manter a posição correta.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=HybGC-pfYfk',
     searchQuery: 'prancha abdominal execução correta',
     substitutions: ['dead_bug', 'bird_dog']
   },
@@ -420,7 +420,7 @@ const EXERCISES = {
       'Fazer rápido demais.',
       'Prender a respiração.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=0loS0bRNqfs',
     searchQuery: 'dead bug exercício core execução',
     substitutions: ['prancha', 'bird_dog']
   },
@@ -443,7 +443,7 @@ const EXERCISES = {
       'Carga alta e amplitude curta.',
       'Movimento com solavanco.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=pR7WtwTOOTw',
     searchQuery: 'abdominal máquina execução correta',
     substitutions: ['dead_bug', 'prancha']
   },
@@ -468,7 +468,7 @@ const EXERCISES = {
       'Levantar a perna acima da linha das costas.',
       'Movimento rápido, sem pausa.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=QABW99qPiNM',
     searchQuery: 'bird dog exercício execução correta',
     substitutions: ['dead_bug', 'prancha']
   },
@@ -493,7 +493,7 @@ const EXERCISES = {
       'Joelhos caindo para dentro.',
       'Descer rápido sem controle.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=gC5WDrdXzMQ',
     searchQuery: 'agachamento peso corporal técnica correta',
     substitutions: ['glute_bridge', 'leg_press']
   },
@@ -518,7 +518,7 @@ const EXERCISES = {
       'Amplitude curta.',
       'Pescoço projetado à frente.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=M9mOisTRB1A',
     searchQuery: 'flexão de braço técnica correta',
     substitutions: ['flexao_inclinada', 'supino']
   },
@@ -541,7 +541,7 @@ const EXERCISES = {
       'Quadril cedendo.',
       'Descer só um pouco.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=COpDKiH4byU',
     searchQuery: 'flexão inclinada apoio elevado execução',
     substitutions: ['flexao', 'supino']
   },
@@ -564,7 +564,7 @@ const EXERCISES = {
       'Quadril cedendo.',
       'Descer pouco.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=6rCfW6Bz0es',
     searchQuery: 'flexão diamante mãos fechadas tríceps execução',
     substitutions: ['triceps_polia', 'triceps_halter']
   },
@@ -589,7 +589,7 @@ const EXERCISES = {
       'Encolher os ombros em direção às orelhas.',
       'Usar impulso.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=LSy6R7j3PDc',
     searchQuery: 'prone Y T raise exercise form',
     substitutions: ['reverse_snow_angel', 'remada_sentada']
   },
@@ -614,7 +614,7 @@ const EXERCISES = {
       'Levantar o tronco.',
       'Fazer rápido demais.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=0qLP2RNKX4A',
     searchQuery: 'reverse snow angel exercise form',
     substitutions: ['prone_yt', 'remada_sentada']
   },
@@ -638,7 +638,7 @@ const EXERCISES = {
       'Pés longe demais do corpo (vira exercício de posterior).',
       'Movimento rápido sem pausa no topo.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=6jS6aH-78w4',
     searchQuery: 'glute bridge elevação de quadril execução',
     substitutions: ['romeno', 'extensao_lombar']
   },
@@ -663,7 +663,7 @@ const EXERCISES = {
       'Resistência inconsistente ao longo da série.',
       'Movimento rápido demais.'
     ],
-    videoUrl: null,
+    videoUrl: 'https://www.youtube.com/watch?v=WtW_WoqXXzE',
     searchQuery: 'bíceps sem equipamento mochila autorresistência',
     substitutions: ['rosca_halteres']
   }
